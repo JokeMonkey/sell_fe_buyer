@@ -45,8 +45,8 @@ module.exports = {
 		// In our experience, they generally work as expected,
 		// just be aware of this issue when enabling this option.
 		cssSourceMap: false,
-		sellUrl: 'http://127.0.0.1',
-		openidUrl: 'http://127.0.0.1',
-		wechatPayUrl: 'http://127.0.0.1'
+    sellUrl: 'http://king.sell.com:8088',
+    openidUrl: 'http://kingyao.mynatapp.cc/sell/wechat/anthorize',
+    wechatPayUrl: 'http://king.sell.com:8088'
 	}
 }
